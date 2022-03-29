@@ -1,7 +1,6 @@
 # TPNSTA
 
-**Code and models for IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING paper: *Temporal Pyramid Network with  
-Spatial-Temporal Attention for Pedestrian Trajectory Prediction***
+**Code and models for IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING paper: *Temporal Pyramid Network with Spatial-Temporal Attention for Pedestrian Trajectory Prediction***
 
 ### Environment
 
